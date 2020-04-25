@@ -88,7 +88,7 @@
           </p>
         </div>
         <div class="field column">
-          <b-switch class="pt-3" v-model="debug">Debug</b-switch>
+          <b-switch class="pt-3 mt-3" v-model="debug">Debug</b-switch>
         </div>
       </section>
     </section>
