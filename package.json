@@ -1,5 +1,5 @@
 {
-  "name": "demo-site",
+  "name": "canvas-txt-demo",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,9 +9,13 @@
   },
   "dependencies": {
     "buefy": "^0.8.16",
+    "canvas-txt": "^2.0.3",
     "core-js": "^3.6.4",
     "vue": "^2.6.11",
+    "vue-github-button": "^1.1.2",
+    "vue-hljs": "^1.1.2",
     "vue-page-transition": "^0.2.2",
+    "vue-prism": "^1.0.5",
     "vue-router": "^3.1.6"
   },
   "devDependencies": {
