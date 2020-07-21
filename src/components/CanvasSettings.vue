@@ -82,10 +82,8 @@
         </b-field>
       </section>
       <section class="columns">
-        <div class="column">
-          <p class="has-text-grey">
-            🤔 Enable debugging to understand the process
-          </p>
+        <div class="field column">
+             <b-switch class="pt-3 mt-3" v-model="justify">Justify</b-switch>
         </div>
         <div class="field column">
           <b-switch class="pt-3 mt-3" v-model="debug">Debug</b-switch>
@@ -112,6 +110,7 @@ export default {
       debug: false,
       align: 'center',
       vAlign: 'middle',
+      justify: false,
       min: 0,
       max: 800
     }

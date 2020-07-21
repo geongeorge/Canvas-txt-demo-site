@@ -49,6 +49,8 @@ export default {
 
       const debug = settings.debug ? settings.debug : false
 
+      const justify = settings.justify ? settings.justify : false
+
       const fontSize =
         settings.font && settings.font.size ? settings.font.size : 24
 
@@ -68,6 +70,8 @@ export default {
       canvasTxt.vAlign = vAlign
 
       canvasTxt.debug = debug
+
+      canvasTxt.justify = justify
 
       canvasTxt.drawText(ctx, text, x, y, width, height)
     },

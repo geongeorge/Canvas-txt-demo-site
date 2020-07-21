@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "buefy": "^0.8.16",
-    "canvas-txt": "^2.0.9",
+    "canvas-txt": "^2.0.10",
     "core-js": "^3.6.4",
     "vue": "^2.6.11",
     "vue-github-button": "^1.1.2",
