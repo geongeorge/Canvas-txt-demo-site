@@ -27,7 +27,7 @@
             size="is-small"
             type="is-warning"
             v-model="size.w"
-            :min="min"
+            :min="10"
             :max="max"
           >
           </b-slider>
