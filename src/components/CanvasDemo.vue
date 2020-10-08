@@ -42,6 +42,8 @@ export default {
       const y =
         settings.pos && settings.pos.y !== undefined ? settings.pos.y : 200
 
+      if (settings.size.w <= 50) settings.size.w = 50
+
       const width =
         settings.size && settings.size.w !== undefined ? settings.size.w : 200
       const height =

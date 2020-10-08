@@ -27,7 +27,7 @@
             size="is-small"
             type="is-warning"
             v-model="size.w"
-            :min="10"
+            :min="50"
             :max="max"
           >
           </b-slider>
@@ -83,7 +83,7 @@
       </section>
       <section class="columns">
         <div class="field column">
-             <b-switch class="pt-3 mt-3" v-model="justify">Justify</b-switch>
+          <b-switch class="pt-3 mt-3" v-model="justify">Justify</b-switch>
         </div>
         <div class="field column">
           <b-switch class="pt-3 mt-3" v-model="debug">Debug</b-switch>
