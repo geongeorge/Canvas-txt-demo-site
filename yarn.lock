@@ -1994,10 +1994,10 @@ caniuse-lite@^1.0.0, caniuse-lite@^1.0.30001039, caniuse-lite@^1.0.30001043:
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001046.tgz#7a06d3e8fd8aa7f4d21c9a2e313f35f2d06b013e"
   integrity sha512-CsGjBRYWG6FvgbyGy+hBbaezpwiqIOLkxQPY4A4Ea49g1eNsnQuESB+n4QM0BKii1j80MyJ26Ir5ywTQkbRE4g==
 
-canvas-txt@^2.0.10:
-  version "2.0.10"
-  resolved "https://registry.yarnpkg.com/canvas-txt/-/canvas-txt-2.0.10.tgz#a7bf9489d2cec8728668ea883836a7a0a126618c"
-  integrity sha512-Hst6J5gjB/u19vNIPpmJdSjsac6c/NUlW2xIl07mihcsOfU5ff5AMjmqKZrqt9drW5qIBxQwtxHNTuqTxZD8Jg==
+canvas-txt@3.0.0-beta.1:
+  version "3.0.0-beta.1"
+  resolved "https://registry.yarnpkg.com/canvas-txt/-/canvas-txt-3.0.0-beta.1.tgz#902cdc370883bd2d62618264efa4762e8b45e6c5"
+  integrity sha512-5b/1AR8Av5bEJPRUqtfvCyyQ6NLo/E1x35b/MxajpvMuxOloRuSY1maM+i0HujQAc+udfztJTd1Ygrb3HqcqEA==
 
 case-sensitive-paths-webpack-plugin@^2.3.0:
   version "2.3.0"
